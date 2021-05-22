@@ -1,4 +1,1 @@
-# OpenOffice-Dockerfile
-OpenOffice Dockerfile<br>
-Usage:<br>
-docker build openoffice:v4.1.6 .
+Best OO image I've found (Thanks, Kevin!) except with english langpacks.
